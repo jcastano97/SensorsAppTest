@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccelerometerTest</string>
+    <string name="txt_message_accelerometer_string">Estamos analizando si el sensor acelerometro existe</string>
+    <string name="txt_message_gyroscope_string">Estamos analizando si el sensor giroscopio existe</string>
+    <string name="txt_message_magnetometer_string">Estamos analizando si el sensor magnometro existe</string>
+    <string name="txt_a_x_string">Valor x</string>
+    <string name="txt_a_y_string">Valor y</string>
+    <string name="txt_a_z_string">Valor z</string>
+</resources>
